@@ -131,9 +131,7 @@ Actual performance may vary based on the specific dataset split and random initi
 ## Visualizations
 The notebook provides several visualizations to help understand the data and model performance:
 
-1. Feature Importance: A bar plot showing the top 10 most important features in predicting flight prices.
-2. Predicted vs Actual Prices: A scatter plot comparing the model's predictions against the actual prices.
-3. Residual Plot: A plot showing the residuals (differences between predicted and actual prices) to assess model performance.
+1. Predicted vs Actual Prices: A scatter plot comparing the model's predictions against the actual prices.
 
 These visualizations offer insights into which factors most strongly influence flight prices and how well our model is performing across different price ranges.
 

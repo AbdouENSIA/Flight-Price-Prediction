@@ -67,7 +67,7 @@ To set up the project environment:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/flight-price-prediction.git
+   git clone https://github.com/AbdouENSIA/Flight-Price-Prediction.git
    cd flight-price-prediction
    ```
 

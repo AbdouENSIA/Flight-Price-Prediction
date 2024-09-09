@@ -25,7 +25,7 @@ The analysis is fueled by the `flights.csv` dataset, packed with key features th
 | Feature          | Description                       |
 |------------------|-----------------------------------|
 | `airline`        | ✈️ Operating airline company      |
-| `flight`         | Flight number                     |
+| `flight`         | 🔢Flight number                     |
 | `source_city`    | 🏙️ Departure city                 |
 | `departure_time` | 🕒 Time of departure               |
 | `stops`          | 🚏 Number of stops                |
